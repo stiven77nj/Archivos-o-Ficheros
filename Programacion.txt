@@ -1,0 +1,9 @@
+
+-> Teoria de la programacion:
+
+es una rama de la ciencias de la computación que se encarga del diseño,
+implementación, análisis, caracterización y clasificación de lenguajes de 
+programación y sus características.
+
+
+Algunos lenguajes de programacion son: C++, Java, Phyton
